@@ -1,0 +1,49 @@
+# Python/ML
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+*.joblib
+models/
+checkpoints/
+data/raw/
+data/processed/
+venv/
+env/
+
+# Docker
+.dockerignore
+
+# IDE/Logs
+.vscode/
+.ipynb_checkpoints/
+*.log
+
+
+# Python/ML
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+*.joblib
+models/
+checkpoints/
+data/raw/
+data/processed/
+venv/
+env/
+
+# Docker
+.dockerignore
+
+# IDE/Logs
+.vscode/
+.ipynb_checkpoints/
+*.log
+
+*.pkl
+*.joblib
+models/
+_pycache_/
+checkpoints/
+venv/
